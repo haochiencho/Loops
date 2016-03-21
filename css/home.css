@@ -1,0 +1,72 @@
+
+/* narbar logo*/
+
+.loopLogo{
+    width: 120px !important;
+    height: 50px !important;
+    float: left;
+
+}
+
+/* navbar button*/
+
+a.btn{
+    float: right !important;
+    margin-top: 10px !important;
+    margin-left: 30px !important;
+}
+
+/* page 2*/
+
+.page2Image{
+    margin-top: 10px;
+    width: 780px;
+    height: 568px;
+}
+
+h2.page2{
+    margin-top: 35px;
+    margin-bottom: 25px;
+}
+
+div.page2Box{
+    padding-top: 25px;
+}
+
+/* navbar*/
+
+div.container.bar{
+    margin-right: 20px !important;
+    width: 1250px !important;
+    margin-left: 80px;
+    padding-left: 0;
+    padding-right: 0;
+
+}
+
+div.loopBox{
+    margin-top: 40px;
+}
+
+div.intro-text{
+    margin-bottom: 35px;
+}
+
+.page1Button{
+    padding-top: 4px !important;
+    width: 150px !important;
+    height: 40px !important;
+    font-size: 20px !important;
+    font-spacing: 1px !important;
+}
+
+li.loops{
+    color: #ffffff;
+    padding-top: 20px;
+    font-family: cursive;
+    font-size: 24px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 500;
+    line-height: 26.3999996185303px;
+}
